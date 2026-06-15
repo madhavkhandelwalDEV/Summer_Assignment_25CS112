@@ -32,3 +32,4 @@ public class Program45 {
         sc.close();
     }
 }
+//ready to go
