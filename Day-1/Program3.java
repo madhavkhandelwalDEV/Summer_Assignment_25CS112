@@ -22,3 +22,4 @@ public class Program3 {
         sc.close();
     }
 }
+//ready to go
